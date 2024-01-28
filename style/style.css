@@ -35,7 +35,7 @@ body {
 	width: 100%;
 	height: 50%;
 	border-top-left-radius: 50px;
-	background-image: url(/img/dateGeneratorHeroImg.jpg);
+	background-image: url(../img/dateGeneratorHeroImg.jpg);
 	background-size: cover;
 	background-position: 50% 25%;
 }
